@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learnix - AI Study Assistant</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Markdown Rendering Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css" media="(prefers-color-scheme: dark)">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <img src="logo.svg" alt="Learnix Logo" class="logo-image">
+                    <div class="logo-text">
+                        <h1 class="logo">Learnix</h1>
+                        <p class="tagline">Your Smart College Assistant</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button id="clear-chat" class="icon-btn" title="Clear chat history">🗑️</button>
+                    <button id="theme-toggle" class="icon-btn" title="Toggle theme">🌙</button>
+                    <button id="docs-toggle" class="icon-btn" title="View documents">📄</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar" id="sidebar">
+                <div class="sidebar-header">
+                    <h2>Documents</h2>
+                    <button id="close-sidebar" class="icon-btn">✕</button>
+                </div>
+                
+                <div class="upload-section">
+                    <label for="file-upload" class="upload-btn">
+                        📤 Upload Document
+                        <input type="file" id="file-upload" accept=".pdf,.docx,.txt,.md" multiple hidden>
+                    </label>
+                </div>
+
+                <div id="documents-list" class="documents-list">
+                    <p class="empty-state">No documents uploaded yet</p>
+                </div>
+            </aside>
+
+            <!-- Chat Area -->
+            <main class="chat-container">
+                <div id="chat-messages" class="chat-messages">
+                    <div class="welcome-message">
+                        <div class="welcome-icon">👋</div>
+                        <h2>Welcome to Learnix!</h2>
+                        <p>Upload your study materials and ask me anything.</p>
+                        <div class="quick-tips">
+                            <p><strong>Quick tips:</strong></p>
+                            <ul>
+                                <li>Upload PDFs, DOCX, or TXT files</li>
+                                <li>Ask specific questions about your documents</li>
+                                <li>I'll search through all uploaded materials</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <form id="chat-form" class="chat-input-form">
+                    <input 
+                        type="text" 
+                        id="question-input" 
+                        placeholder="Ask a question about your documents..."
+                        autocomplete="off"
+                        required
+                    >
+                    <button type="submit" id="send-btn" class="send-btn">
+                        <span class="send-icon">📨</span>
+                    </button>
+                </form>
+            </main>
+        </div>
+
+        <!-- Status Bar -->
+        <div class="status-bar">
+            <span id="status-text">Ready</span>
+            <span id="mode-indicator" class="mode-badge">Mock Mode</span>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

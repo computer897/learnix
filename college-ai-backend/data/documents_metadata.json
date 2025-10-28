@@ -1,0 +1,110 @@
+{
+  "fc9fdd2e511319ddb93f9f215c28713ccb1ef35dc7d2c1951eab4e601fe0aaec": {
+    "filename": "CS3391-OOPS NOTES.pdf",
+    "hash": "fc9fdd2e511319ddb93f9f215c28713ccb1ef35dc7d2c1951eab4e601fe0aaec",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\CS3391-OOPS NOTES.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\fc9fdd2e511319ddb93f9f215c28713ccb1ef35dc7d2c1951eab4e601fe0aaec.txt",
+    "uploaded_at": "2025-10-26T17:53:51.506643",
+    "text_length": 321558,
+    "embedding_dim": 384
+  },
+  "1d3d9b446a701d22b86a1da3d83926bb657f9b6bc5d118e103967052a6f78789": {
+    "filename": "Data Structures and Algorithms - Narasimha Karumanchi.pdf",
+    "hash": "1d3d9b446a701d22b86a1da3d83926bb657f9b6bc5d118e103967052a6f78789",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\Data Structures and Algorithms - Narasimha Karumanchi.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\1d3d9b446a701d22b86a1da3d83926bb657f9b6bc5d118e103967052a6f78789.txt",
+    "uploaded_at": "2025-10-26T18:11:48.559618",
+    "text_length": 764944,
+    "embedding_dim": 384
+  },
+  "72f169555c5c991bd65b8791aefb5ff12f4c43da5be97a6320c63373f407dca9": {
+    "filename": "[JAVA][The Complete Reference Java Ninth Edition].pdf",
+    "hash": "72f169555c5c991bd65b8791aefb5ff12f4c43da5be97a6320c63373f407dca9",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\[JAVA][The Complete Reference Java Ninth Edition].pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\72f169555c5c991bd65b8791aefb5ff12f4c43da5be97a6320c63373f407dca9.txt",
+    "uploaded_at": "2025-10-26T18:13:20.571080",
+    "text_length": 2594235,
+    "embedding_dim": 384
+  },
+  "65863547fa13d10dbb8f099bb176fe3944592bffe5487c6394cedd038e11833a": {
+    "filename": "DSE NOTES.pdf",
+    "hash": "65863547fa13d10dbb8f099bb176fe3944592bffe5487c6394cedd038e11833a",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DSE NOTES.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\65863547fa13d10dbb8f099bb176fe3944592bffe5487c6394cedd038e11833a.txt",
+    "uploaded_at": "2025-10-27T18:16:59.718330",
+    "text_length": 309918,
+    "embedding_dim": 0
+  },
+  "f591f4607daf2c2db746bdac80237a648d973cf6b65b671576e30070a7e6eb2e": {
+    "filename": "Digital Principles & Computer Organization_ PDF An.pdf",
+    "hash": "f591f4607daf2c2db746bdac80237a648d973cf6b65b671576e30070a7e6eb2e",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\Digital Principles & Computer Organization_ PDF An.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\f591f4607daf2c2db746bdac80237a648d973cf6b65b671576e30070a7e6eb2e.txt",
+    "uploaded_at": "2025-10-27T18:28:16.990840",
+    "text_length": 29712,
+    "embedding_dim": 0
+  },
+  "218abdf9c77c78ab095a9579b4c241d53a998a90463de8b13f40166bba5fa365": {
+    "filename": "DM Unit-I.pdf",
+    "hash": "218abdf9c77c78ab095a9579b4c241d53a998a90463de8b13f40166bba5fa365",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DM Unit-I.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\218abdf9c77c78ab095a9579b4c241d53a998a90463de8b13f40166bba5fa365.txt",
+    "uploaded_at": "2025-10-27T18:29:09.371881",
+    "text_length": 41267,
+    "embedding_dim": 0
+  },
+  "e2df7e6b47bbc1bb02e0db5fba13047ccd8e89a10fe80a14e376272f06424e03": {
+    "filename": "DM Unit-III.pdf",
+    "hash": "e2df7e6b47bbc1bb02e0db5fba13047ccd8e89a10fe80a14e376272f06424e03",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DM Unit-III.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\e2df7e6b47bbc1bb02e0db5fba13047ccd8e89a10fe80a14e376272f06424e03.txt",
+    "uploaded_at": "2025-10-27T18:30:34.674458",
+    "text_length": 51112,
+    "embedding_dim": 0
+  },
+  "b5b80549c0049f5d5261fbe055e8b0e4cfe9f15a6ca1143c1c0586ebd214d60d": {
+    "filename": "DM Unit-IV.pdf",
+    "hash": "b5b80549c0049f5d5261fbe055e8b0e4cfe9f15a6ca1143c1c0586ebd214d60d",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DM Unit-IV.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\b5b80549c0049f5d5261fbe055e8b0e4cfe9f15a6ca1143c1c0586ebd214d60d.txt",
+    "uploaded_at": "2025-10-27T18:30:43.872876",
+    "text_length": 35536,
+    "embedding_dim": 0
+  },
+  "96872ebd50ab6a4f3610a00737b0c56dfb9abb520e696f1c9c776bb75a2e03ea": {
+    "filename": "DM-UNIT-V.pdf",
+    "hash": "96872ebd50ab6a4f3610a00737b0c56dfb9abb520e696f1c9c776bb75a2e03ea",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DM-UNIT-V.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\96872ebd50ab6a4f3610a00737b0c56dfb9abb520e696f1c9c776bb75a2e03ea.txt",
+    "uploaded_at": "2025-10-27T18:30:47.217903",
+    "text_length": 24393,
+    "embedding_dim": 0
+  },
+  "182bdcd0c84e6857653b53b1b2b3269fc09208e0024eb01339cd08b109fdd089": {
+    "filename": "DM Unit II.pdf",
+    "hash": "182bdcd0c84e6857653b53b1b2b3269fc09208e0024eb01339cd08b109fdd089",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DM Unit II.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\182bdcd0c84e6857653b53b1b2b3269fc09208e0024eb01339cd08b109fdd089.txt",
+    "uploaded_at": "2025-10-27T18:31:01.332223",
+    "text_length": 30271,
+    "embedding_dim": 0
+  },
+  "88bfb87d92238c084a6b3517c15b7b35f443964ec3e538b079351eea940fcda3": {
+    "filename": "DSQBSA.pdf",
+    "hash": "88bfb87d92238c084a6b3517c15b7b35f443964ec3e538b079351eea940fcda3",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DSQBSA.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\88bfb87d92238c084a6b3517c15b7b35f443964ec3e538b079351eea940fcda3.txt",
+    "uploaded_at": "2025-10-27T18:31:12.734598",
+    "text_length": 30119,
+    "embedding_dim": 0
+  },
+  "ecb57108da22b8433057d9352c85fad40bb5ecb45e0339daf5d9c87fd689fdbf": {
+    "filename": "DSOBST.pdf",
+    "hash": "ecb57108da22b8433057d9352c85fad40bb5ecb45e0339daf5d9c87fd689fdbf",
+    "file_path": "D:\\learnix\\college-ai-backend\\data\\DSOBST.pdf",
+    "text_path": "D:\\learnix\\college-ai-backend\\data\\ecb57108da22b8433057d9352c85fad40bb5ecb45e0339daf5d9c87fd689fdbf.txt",
+    "uploaded_at": "2025-10-27T18:31:19.674272",
+    "text_length": 18872,
+    "embedding_dim": 0
+  }
+}
