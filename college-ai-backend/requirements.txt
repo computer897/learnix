@@ -7,11 +7,8 @@ numpy
 python-dotenv
 google-generativeai
 gunicorn
-
-# Optional packages for full production mode:
-# Uncomment below when ready to use real embeddings, Qdrant, and document processing
-# sentence-transformers
-# qdrant-client
-# transformers
-# PyPDF2
-# python-docx
+sentence-transformers
+qdrant-client
+transformers
+PyPDF2
+python-docx
